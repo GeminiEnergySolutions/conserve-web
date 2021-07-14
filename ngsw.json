@@ -1,0 +1,145 @@
+{
+  "configVersion": 1,
+  "timestamp": 1626303200837,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.0b48b370692dee5c126d.js",
+        "/manifest.webmanifest",
+        "/polyfills.b206fc5609d9ec5b7f5f.js",
+        "/runtime.d7890ab2f5f9e93219ff.js",
+        "/styles.08fa2155bb7086057a78.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/cfl.json",
+        "/assets/combination_oven.json",
+        "/assets/convection_oven.json",
+        "/assets/conveyor_broiler.json",
+        "/assets/conveyor_oven.json",
+        "/assets/dishwasher.json",
+        "/assets/freezer.json",
+        "/assets/freezer_fridge.json",
+        "/assets/fryer.json",
+        "/assets/griddle.json",
+        "/assets/halogen.json",
+        "/assets/hot_food_cabinet.json",
+        "/assets/hotwater.json",
+        "/assets/hpsodium.json",
+        "/assets/hvac.json",
+        "/assets/icemaker.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/incandescent.json",
+        "/assets/lighting.json",
+        "/assets/linearfluorescent.json",
+        "/assets/lpsodium.json",
+        "/assets/motors.json",
+        "/assets/pre_rinse_spray.json",
+        "/assets/preaudit.json",
+        "/assets/rack_oven.json",
+        "/assets/refrigerator.json",
+        "/assets/sample_appliance.json",
+        "/assets/steam_cooker.json",
+        "/assets/walkin_coolbot.json",
+        "/assets/walkin_freezer.json",
+        "/assets/walkin_refrigerator.json",
+        "/bootstrap-icons.94eeade15e6b7fbed95b.woff",
+        "/bootstrap-icons.dfd0ea122577eb61795f.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/cfl.json": "49698d06dee117d96f32f42b4efdd84d68ce8bf2",
+    "/assets/combination_oven.json": "46e6611d87cb5a0964509da47f8739d13553c608",
+    "/assets/convection_oven.json": "cea983f888064e4789c714e206890a2d6ce8b35c",
+    "/assets/conveyor_broiler.json": "7594645be50811b2e9bf6c3eec6d8d1075dcecd7",
+    "/assets/conveyor_oven.json": "d01c75d26dd50e43a78e62a9f067a3b07a618c39",
+    "/assets/dishwasher.json": "da6b789276b7bc5b972ce3726596c064a9b735c9",
+    "/assets/freezer.json": "3c59b2b19ffd241c181f072c9f292f6a8f6f671d",
+    "/assets/freezer_fridge.json": "c0ae16b429e023edfc12ad4a37b56e592cb027c5",
+    "/assets/fryer.json": "9c0323a1f24ab90c6d0ce0ae6b1bfc08d83ab060",
+    "/assets/griddle.json": "70093913635b0c86bc75a8c3ef4826411ab2a3ee",
+    "/assets/halogen.json": "223d7c78718c089d1e288087f978f284d036363e",
+    "/assets/hot_food_cabinet.json": "76ccdc6f2e5f9d924d42b9e4ec1824dce323e246",
+    "/assets/hotwater.json": "3bf745a13f84e77d4f851a06044c1c7aa1afe71d",
+    "/assets/hpsodium.json": "880d0b3ec562e6464ac763fc5273436b517de4e1",
+    "/assets/hvac.json": "96b646bcbfba34a29f7ee1c8ccec186238feef6e",
+    "/assets/icemaker.json": "2f12e1c415adb7c79facdd7e57557ee85c2dcd0a",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/incandescent.json": "c06b5e5064e1ae59109fdf16f0be26fb5600172b",
+    "/assets/lighting.json": "b289012553ab9bf93062dfe3c8a608f3d424a159",
+    "/assets/linearfluorescent.json": "a45d591953481364e272970fc0f6e4091c05ee77",
+    "/assets/lpsodium.json": "f2ef3df8fa0f856e24073293c626bc2a38fed590",
+    "/assets/motors.json": "87502fccacc7c08f65a22938ccf5306daf278b80",
+    "/assets/pre_rinse_spray.json": "945569887e40d5f05d31e576c0b66d06fc24b96c",
+    "/assets/preaudit.json": "4e9bc0ae341d8323bb2a22e7b1acb387f03bf5a9",
+    "/assets/rack_oven.json": "91dd7a70483059cca4942eae3868287c0e0825cf",
+    "/assets/refrigerator.json": "c18f4fe36faad93b79e8078e3e8d05323bf067b4",
+    "/assets/sample_appliance.json": "929e1c0d05002cd9ec416dea59954d88807bfeeb",
+    "/assets/steam_cooker.json": "114c176e91aba8e4df9b3d0dec0ae32cbc78acd8",
+    "/assets/walkin_coolbot.json": "5dfd8c28d6fcb7fb9eea9c9004876920041301db",
+    "/assets/walkin_freezer.json": "56042c8f59c28693aa6ba94a42aa7a88d053498c",
+    "/assets/walkin_refrigerator.json": "f33eec14d7d88def124dfe0d5b8db8ccd69b0e31",
+    "/bootstrap-icons.94eeade15e6b7fbed95b.woff": "cbfb7021638656cd7c9159e830cebdf9db059dff",
+    "/bootstrap-icons.dfd0ea122577eb61795f.woff2": "4649877868a0068ce50b105d0d2a235e8010c98f",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "d565447417b71c1b1d5d6725b25e7cc81aedf7ea",
+    "/main.0b48b370692dee5c126d.js": "a754d2109f811924d6f2ef1a206bdb14fb45e4b4",
+    "/manifest.webmanifest": "55313d01318c613036ec096b7dbc153eb3f0523c",
+    "/polyfills.b206fc5609d9ec5b7f5f.js": "b11e7c195e39a9ac88c17823d345da52e32cfc13",
+    "/runtime.d7890ab2f5f9e93219ff.js": "0bab36971d099af705cb1407db85a6caa7ccb089",
+    "/styles.08fa2155bb7086057a78.css": "39e1077d89e94a808d82fd9b8a4912d96c1a8941"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
